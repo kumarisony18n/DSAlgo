@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite   name="Suite" thread-count="5">
+ <listeners>
+		<listener class-name="Utilities.ListenerClass"></listener>
+	</listeners>
+<test thread-count="5" name="Regression">
+		
+		<groups>
+			<run>
+				<include name="Regression"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testCases.GetStartedTest"/>
+            <class name="testCases.HomePageTest"/>
+			<class name="testCases.LoginTest"/>
+        </classes>
+    </test>
+
+<test thread-count="5" name="Sanity">
+		
+		<groups>
+			<run>
+				<include name="Sanity"></include>
+			</run>
+		</groups>
+		<classes>
+            <class name="testCases.HomePageTest"/>
+			<class name="testCases.LinkedListTest"/>
+			<class name="testCases.TryMeTest"></class>
+			<class name="testCases.AssessmentTest"></class>
+        </classes>
+    </test>
+
+<test thread-count="5" name="Smoke">
+		<groups>
+			<run>
+				<include name="Smoke"></include>
+			</run>
+		</groups>
+		
+		<classes>
+            <class name="testCases.HomePageTest"/>
+			<class name="testCases.ArrayTest"/>
+			<class name="testCases.ArraysinPythonTest"/>
+			<class name="testCases.AssessmentArrayTest"/>
+ 			<class name="testCases.HomePageTest"/>
+        </classes>
+    </test>
+
+</suite> 

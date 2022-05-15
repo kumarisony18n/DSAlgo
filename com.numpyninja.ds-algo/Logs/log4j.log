@@ -1,0 +1,1136 @@
+2022-05-09 06:56:07 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 06:56:07 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 06:56:08 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 06:56:20 INFO  Logs:22 - This is screenShot method
+2022-05-09 06:56:21 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-05-09 06:56:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-05-09 06:56:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-05-09 06:56:21 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-05-09 06:56:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-05-09 06:56:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-05-09 06:56:22 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-05-09 06:56:23 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 06:56:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-05-09 06:56:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-05-09 06:56:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-05-09 06:56:23 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-05-09 07:09:02 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 07:09:04 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 07:09:14 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 07:09:14 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 07:09:15 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 07:09:27 INFO  Logs:22 - This is screenShot method
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-05-09 07:09:28 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-05-09 07:09:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-05-09 07:09:28 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-05-09 07:09:29 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-05-09 07:09:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-05-09 07:09:29 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-05-09 07:15:53 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 07:15:56 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 07:16:08 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 07:16:08 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 07:16:09 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 07:16:21 INFO  Logs:22 - This is screenShot method
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-05-09 07:16:22 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-05-09 07:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-05-09 07:16:22 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-05-09 07:16:23 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-05-09 07:16:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-05-09 07:16:23 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-05-09 07:19:19 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 07:19:22 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 07:19:33 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 07:19:33 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 07:19:33 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 07:19:45 INFO  Logs:22 - This is screenShot method
+2022-05-09 07:19:46 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-05-09 07:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-05-09 07:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-05-09 07:19:46 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-05-09 07:19:47 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-05-09 07:19:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-05-09 07:19:47 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/abhij/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-05-09 10:41:21 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 10:41:23 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 10:41:34 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 10:41:34 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 10:41:35 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 10:41:47 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:01:13 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:01:16 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:01:16 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:01:17 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:01:17 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:01:17 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:01:38 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:01:39 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:01:39 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:01:41 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:01:41 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:01:42 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:01:42 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:01:43 INFO  Logs:22 - This is loginTest
+2022-05-09 11:01:44 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:01:47 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:01:47 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:01:47 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:01:49 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:01:49 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:01:53 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:01:53 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:01:53 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:01:53 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:01:54 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:01:54 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:01:54 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:01:56 INFO  Logs:22 - Array is selected
+2022-05-09 11:01:56 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:01:59 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:02:01 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:02:01 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:02:02 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:02:08 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:02:24 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:02:25 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:02:25 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:02:45 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:02:46 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:03:08 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:03:28 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:03:28 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:03:50 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:04:12 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:04:32 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:05:28 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:05:30 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:05:30 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:05:31 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:05:31 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:05:32 INFO  Logs:22 - This is loginTest
+2022-05-09 11:05:33 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:05:35 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:05:35 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:05:35 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:05:38 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:05:38 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:05:41 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:05:41 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:05:41 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:05:41 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:05:42 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:05:42 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:05:42 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:05:44 INFO  Logs:22 - Array is selected
+2022-05-09 11:05:44 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:05:47 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:05:49 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:05:55 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:10:53 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:10:56 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:10:56 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:10:57 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:10:57 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:10:58 INFO  Logs:22 - This is loginTest
+2022-05-09 11:11:00 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:11:02 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:11:02 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:11:02 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:11:05 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:11:05 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:11:08 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:11:08 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:11:08 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:11:09 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:11:09 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:11:09 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:11:09 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:11:12 INFO  Logs:22 - Array is selected
+2022-05-09 11:11:12 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:11:19 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:11:19 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:11:22 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:11:22 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:13:17 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:13:19 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:13:20 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:13:20 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:13:20 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:13:22 INFO  Logs:22 - This is loginTest
+2022-05-09 11:13:23 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:13:25 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:13:25 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:13:25 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:13:28 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:13:28 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:13:31 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:13:31 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:13:31 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:13:31 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:13:31 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:13:31 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:13:31 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:13:34 INFO  Logs:22 - Array is selected
+2022-05-09 11:13:34 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:13:41 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:13:41 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:13:48 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:13:55 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:15:00 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:15:03 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:15:03 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:15:03 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:15:03 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:15:04 INFO  Logs:22 - This is loginTest
+2022-05-09 11:15:05 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:15:08 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:15:08 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:15:08 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:15:10 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:15:10 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:15:13 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:16:29 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:16:32 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:16:32 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:16:33 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:16:33 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:16:34 INFO  Logs:22 - This is loginTest
+2022-05-09 11:16:35 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:16:38 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:16:38 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:16:38 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:16:40 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:16:40 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:16:43 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:17:11 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:17:12 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:17:18 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:18:01 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:18:08 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:18:33 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:18:36 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:18:36 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:18:37 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:18:37 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:18:38 INFO  Logs:22 - This is loginTest
+2022-05-09 11:18:40 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:18:42 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:18:42 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:18:42 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:18:44 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:18:44 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:18:47 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:18:47 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:18:47 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:18:47 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:18:48 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:18:48 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:18:48 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:18:50 INFO  Logs:22 - Array is selected
+2022-05-09 11:18:50 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:18:58 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:18:58 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:19:05 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:19:11 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:20:57 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:21:00 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:21:00 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:21:01 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:21:01 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:21:02 INFO  Logs:22 - This is loginTest
+2022-05-09 11:21:04 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:21:06 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:21:06 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:21:06 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:21:09 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:21:09 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:21:09 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:21:09 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:21:09 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:21:15 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:21:15 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:21:19 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:21:22 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:21:22 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:21:22 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:21:23 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:21:23 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:21:24 INFO  Logs:22 - This is loginTest
+2022-05-09 11:21:26 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:21:27 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:21:28 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:21:28 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:21:28 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:21:28 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:21:31 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:21:31 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:21:31 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:21:34 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:21:34 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:21:34 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:21:34 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:21:35 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:21:35 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:21:35 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:21:37 INFO  Logs:22 - Array is selected
+2022-05-09 11:21:37 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:21:40 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:21:42 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:36:52 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:36:55 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:36:55 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:36:55 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:36:55 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:36:57 INFO  Logs:22 - This is loginTest
+2022-05-09 11:36:58 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:37:01 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:37:01 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:37:01 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:37:03 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:37:03 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:37:06 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:37:07 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:37:07 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:37:07 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:37:07 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:37:07 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:37:07 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:37:10 INFO  Logs:22 - Array is selected
+2022-05-09 11:37:10 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:37:10 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:37:11 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:37:18 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:37:23 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:41:56 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:41:59 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:41:59 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:42:00 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:42:00 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:42:01 INFO  Logs:22 - This is loginTest
+2022-05-09 11:42:03 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:42:05 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:42:05 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:42:05 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:42:08 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:42:08 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:42:10 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:42:11 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:42:11 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:42:11 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:42:11 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:42:11 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:42:11 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:42:14 INFO  Logs:22 - Array is selected
+2022-05-09 11:42:14 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:42:21 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:42:24 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:42:25 INFO  Logs:22 - Python code has been entered
+2022-05-09 11:42:25 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 11:43:58 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:44:00 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:44:00 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:44:01 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:44:01 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:44:02 INFO  Logs:22 - This is loginTest
+2022-05-09 11:44:03 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:44:05 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:44:05 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:44:05 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:44:08 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:44:08 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:44:10 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:44:11 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:44:11 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:44:11 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:44:11 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:44:11 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:44:11 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:44:14 INFO  Logs:22 - Array is selected
+2022-05-09 11:44:14 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:44:16 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:44:17 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:44:19 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:44:20 INFO  Logs:22 - Python code has been entered
+2022-05-09 11:44:20 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 11:47:29 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:47:32 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:47:32 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:47:32 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:47:32 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:47:33 INFO  Logs:22 - This is loginTest
+2022-05-09 11:47:34 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:47:37 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:47:37 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:47:37 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:47:39 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:47:39 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:47:42 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:47:42 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:47:42 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:47:42 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:47:42 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:47:42 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:47:42 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:47:45 INFO  Logs:22 - Array is selected
+2022-05-09 11:47:45 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:47:47 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:47:48 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:47:50 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:47:51 INFO  Logs:22 - Python code has been entered
+2022-05-09 11:47:51 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 11:49:15 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 11:49:17 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 11:49:17 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 11:49:18 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 11:49:18 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 11:49:20 INFO  Logs:22 - This is loginTest
+2022-05-09 11:49:21 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 11:49:23 INFO  Logs:22 - Linked list is selected
+2022-05-09 11:49:23 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 11:49:23 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 11:49:26 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 11:49:26 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 11:49:29 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 11:49:29 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 11:49:29 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 11:49:29 INFO  Logs:22 - Python code has been entered.
+2022-05-09 11:49:30 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 11:49:30 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 11:49:30 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 11:49:32 INFO  Logs:22 - Array is selected
+2022-05-09 11:49:32 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 11:49:35 INFO  Logs:22 - This is screenShot method
+2022-05-09 11:49:35 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 11:49:38 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 11:49:38 INFO  Logs:22 - Python code has been entered
+2022-05-09 11:49:39 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 14:34:47 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 14:34:49 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 14:34:49 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 14:34:50 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 14:34:50 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 14:34:52 INFO  Logs:22 - This is loginTest
+2022-05-09 14:34:53 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 14:34:55 INFO  Logs:22 - Linked list is selected
+2022-05-09 14:34:55 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 14:34:55 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 14:34:57 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 14:34:57 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 14:35:00 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 14:35:00 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 14:35:00 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 14:35:00 INFO  Logs:22 - Python code has been entered.
+2022-05-09 14:35:01 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 14:35:01 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 14:35:01 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 14:35:03 INFO  Logs:22 - Array is selected
+2022-05-09 14:35:03 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 14:35:06 INFO  Logs:22 - This is screenShot method
+2022-05-09 14:35:06 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 14:35:09 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 14:35:09 INFO  Logs:22 - Python code has been entered
+2022-05-09 14:35:10 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 15:39:38 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 15:39:41 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 15:39:41 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 15:39:42 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 15:39:42 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 15:39:43 INFO  Logs:22 - This is loginTest
+2022-05-09 15:39:45 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 15:39:47 INFO  Logs:22 - Linked list is selected
+2022-05-09 15:39:47 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 15:39:47 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 15:39:50 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 15:39:50 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 15:39:53 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 15:39:54 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 15:39:54 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 15:39:54 INFO  Logs:22 - Python code has been entered.
+2022-05-09 15:39:54 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 15:39:54 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 15:39:55 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 15:39:57 INFO  Logs:22 - Array is selected
+2022-05-09 15:39:57 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 15:40:00 INFO  Logs:22 - This is screenShot method
+2022-05-09 15:40:01 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 15:40:03 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 15:40:04 INFO  Logs:22 - Python code has been entered
+2022-05-09 15:40:04 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 16:03:01 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 16:03:03 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 16:03:03 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 16:03:04 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 16:03:04 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 16:03:05 INFO  Logs:22 - This is loginTest
+2022-05-09 16:03:06 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 16:03:09 INFO  Logs:22 - Linked list is selected
+2022-05-09 16:03:09 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 16:03:09 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 16:03:12 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 16:03:12 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 16:03:14 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 16:03:15 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 16:03:15 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 16:03:15 INFO  Logs:22 - Python code has been entered.
+2022-05-09 16:03:15 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 16:03:15 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 16:03:15 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 16:03:18 INFO  Logs:22 - Array is selected
+2022-05-09 16:03:18 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 16:03:21 INFO  Logs:22 - This is screenShot method
+2022-05-09 16:03:21 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 16:03:24 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 16:03:24 INFO  Logs:22 - Python code has been entered
+2022-05-09 16:03:25 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 16:03:55 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 16:03:58 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 16:03:58 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 16:03:58 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 16:03:58 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 16:03:59 INFO  Logs:22 - This is loginTest
+2022-05-09 16:04:01 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 16:04:03 INFO  Logs:22 - Linked list is selected
+2022-05-09 16:04:03 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 16:04:03 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 16:04:06 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 16:04:06 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 16:04:09 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 16:04:09 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 16:04:09 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 16:04:09 INFO  Logs:22 - Python code has been entered.
+2022-05-09 16:04:10 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 16:04:10 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 16:04:10 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 16:04:12 INFO  Logs:22 - Array is selected
+2022-05-09 16:04:12 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 16:04:15 INFO  Logs:22 - This is screenShot method
+2022-05-09 16:04:15 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 16:04:18 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 16:04:18 INFO  Logs:22 - Python code has been entered
+2022-05-09 16:04:19 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 23:35:19 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 23:35:24 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 23:35:24 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 23:35:25 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 23:35:25 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 23:35:26 INFO  Logs:22 - This is loginTest
+2022-05-09 23:35:28 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 23:35:32 INFO  Logs:22 - Linked list is selected
+2022-05-09 23:35:32 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 23:35:32 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 23:35:36 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 23:35:36 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 23:35:47 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 23:35:47 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 23:35:47 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 23:35:47 INFO  Logs:22 - Python code has been entered.
+2022-05-09 23:35:48 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 23:35:48 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 23:35:48 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 23:35:50 INFO  Logs:22 - Array is selected
+2022-05-09 23:35:50 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 23:35:53 INFO  Logs:22 - This is screenShot method
+2022-05-09 23:35:54 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 23:35:57 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-09 23:35:57 INFO  Logs:22 - Python code has been entered
+2022-05-09 23:35:58 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
+2022-05-09 23:55:59 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 23:56:02 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 23:56:02 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 23:56:02 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 23:56:02 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 23:56:03 INFO  Logs:22 - This is loginTest
+2022-05-09 23:56:04 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 23:56:07 INFO  Logs:22 - Linked list is selected
+2022-05-09 23:56:07 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 23:56:07 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 23:56:09 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 23:56:09 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 23:56:12 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 23:56:12 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 23:56:12 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 23:56:12 INFO  Logs:22 - Python code has been entered.
+2022-05-09 23:56:13 INFO  Logs:22 - Run button has been clicked.
+2022-05-09 23:56:13 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-09 23:56:13 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-09 23:56:20 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-09 23:56:25 INFO  Logs:22 - This is screenShot method
+2022-05-09 23:56:26 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-09 23:56:33 INFO  Logs:22 - This is screenShot method
+2022-05-09 23:56:38 INFO  Logs:22 - This is screenShot method
+2022-05-09 23:58:06 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-09 23:58:09 INFO  Logs:22 - Clicked GetStarted button
+2022-05-09 23:58:09 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-09 23:58:10 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-09 23:58:10 INFO  Logs:22 - gettting data from excel for Login
+2022-05-09 23:58:11 INFO  Logs:22 - This is loginTest
+2022-05-09 23:58:12 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-09 23:58:15 INFO  Logs:22 - Linked list is selected
+2022-05-09 23:58:15 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-09 23:58:15 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-09 23:58:17 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-09 23:58:17 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-09 23:58:20 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-09 23:58:51 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-09 23:58:51 INFO  Logs:22 - This is t01_click_runtest
+2022-05-09 23:58:57 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:00:46 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:00:49 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:00:49 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:00:49 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:00:49 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:00:50 INFO  Logs:22 - This is loginTest
+2022-05-10 00:00:52 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:00:54 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:00:54 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:00:54 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:00:57 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:00:57 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:00:59 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:02:33 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:02:36 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:02:36 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:02:37 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:02:37 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:02:39 INFO  Logs:22 - This is loginTest
+2022-05-10 00:02:40 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:02:42 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:02:42 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:02:42 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:02:45 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:02:45 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:02:48 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:03:52 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:03:54 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:03:55 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:03:55 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:03:55 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:03:57 INFO  Logs:22 - This is loginTest
+2022-05-10 00:03:58 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:04:01 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:04:01 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:04:01 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:04:03 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:04:03 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:04:06 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:04:43 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-10 00:04:43 INFO  Logs:22 - This is t01_click_runtest
+2022-05-10 00:04:49 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:05:16 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-10 00:05:55 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-10 00:06:23 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:06:26 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:06:26 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:06:27 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:06:27 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:06:29 INFO  Logs:22 - This is loginTest
+2022-05-10 00:06:30 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:06:33 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:06:33 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:06:33 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:06:35 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:06:35 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:06:38 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:07:44 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-10 00:07:44 INFO  Logs:22 - This is t01_click_runtest
+2022-05-10 00:07:50 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:09:29 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:09:32 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:09:33 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:09:33 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:09:33 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:09:35 INFO  Logs:22 - This is loginTest
+2022-05-10 00:09:36 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:09:39 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:09:39 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:09:39 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:09:41 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:09:41 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:09:46 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:10:15 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-10 00:10:15 INFO  Logs:22 - This is t01_click_runtest
+2022-05-10 00:10:21 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:15:04 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:15:07 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:15:07 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:15:07 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:15:07 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:15:08 INFO  Logs:22 - This is loginTest
+2022-05-10 00:15:10 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:15:12 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:15:12 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:15:12 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:15:15 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:15:15 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:15:17 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:16:06 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-10 00:16:06 INFO  Logs:22 - This is t01_click_runtest
+2022-05-10 00:17:30 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:17:47 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-10 00:17:54 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-10 00:22:32 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:22:46 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:22:58 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:23:08 INFO  Logs:11 - =====================================t01_clickGetStartedBtn TEST START=========================================
+2022-05-10 00:23:11 INFO  Logs:22 - Clicked GetStarted button
+2022-05-10 00:23:11 INFO  Logs:11 - =====================================t01_sign_in TEST START=========================================
+2022-05-10 00:23:12 INFO  Logs:15 - =====================================t01_sign_in TEST END=========================================
+2022-05-10 00:23:12 INFO  Logs:22 - gettting data from excel for Login
+2022-05-10 00:23:13 INFO  Logs:22 - This is loginTest
+2022-05-10 00:23:14 INFO  Logs:11 - =====================================t03_press_linked_list TEST START=========================================
+2022-05-10 00:23:17 INFO  Logs:22 - Linked list is selected
+2022-05-10 00:23:17 INFO  Logs:15 - =====================================t03_press_linked_list TEST END=========================================
+2022-05-10 00:23:17 INFO  Logs:11 - =====================================t01_create_linked_list TEST START=========================================
+2022-05-10 00:23:19 INFO  Logs:22 - Create linked list link for Linked list clicked
+2022-05-10 00:23:19 INFO  Logs:11 - =====================================t01_try_here TEST START=========================================
+2022-05-10 00:23:22 INFO  Logs:22 - Try Here button for Linked list clicked
+2022-05-10 00:23:22 INFO  Logs:11 - =====================================t01_click_runtest TEST START=========================================
+2022-05-10 00:23:22 INFO  Logs:22 - This is t01_click_runtest
+2022-05-10 00:23:22 INFO  Logs:22 - Python code has been entered.
+2022-05-10 00:23:23 INFO  Logs:22 - Run button has been clicked.
+2022-05-10 00:23:23 INFO  Logs:15 - =====================================t01_click_runtest TEST END=========================================
+2022-05-10 00:23:23 INFO  Logs:11 - =====================================t04_select_array TEST START=========================================
+2022-05-10 00:23:25 INFO  Logs:22 - Array is selected
+2022-05-10 00:23:25 INFO  Logs:15 - =====================================t04_select_array TEST END=========================================
+2022-05-10 00:23:28 INFO  Logs:22 - This is screenShot method
+2022-05-10 00:23:29 INFO  Logs:11 - =====================================Inside t01_create_arrays TEST START=========================================
+2022-05-10 00:23:31 INFO  Logs:22 - Try here button for Arrays has been clicked.
+2022-05-10 00:23:32 INFO  Logs:22 - Python code has been entered
+2022-05-10 00:23:32 INFO  Logs:15 - =====================================Run button for Array has been clicked TEST END=========================================
